@@ -1,31 +1,28 @@
-# Portuguese Dictionary For Your eBook Reader
+# Dicionário em Português para seu eBook Favorito.
 
-> 🥇 That page needs to be translated to **Portuguese**. If you can give a hand, that would be awesome 🥰
+**eBook Reader Dictionaries**, é um projeto colaborativo usando a base de dados vasta [Wikcionário](https://pt.wiktionary.org/) para criar um dicionário completo, atualizado diáriamente.
+## Funções Interessantes
 
-**eBook Reader Dictionaries** is a collaborative project using the vast [Wikcionário](https://pt.wiktionary.org/) database to create a full dictionary, updated on a daily basis.
-
-## Interesting Features
-
-- If a word contains several pronunciations, or genders, all are available.
-- Mathematic formulas are converted to SVG.
-- Chemical formulas are converted to SVG.
-- Hieroglyphs are supported.
-- Tables are supported.
+- Se uma palavra contém várias pronúncias, ou gêneros, todos estão disponíveis.
+- Fórmulas matemáticas são convertidas para SVG.
+- Fórmulas químicas são convertidas para SVG.
+- Hieroglifos são suportados.
+- Tabelas são suportadas.
 
 ## Downloads
 
-### Full Version
+### Versão Completa
 
 - [Kobo](https://github.com/BoboTiG/ebook-reader-dict/releases/download/pt/dicthtml-pt-pt.zip) (dicthtml-pt-pt.zip)
 - [StarDict](https://github.com/BoboTiG/ebook-reader-dict/releases/download/pt/dict-pt-pt.zip) (dict-pt-pt.zip)
 - [DictFile](https://github.com/BoboTiG/ebook-reader-dict/releases/download/pt/dict-pt-pt.df.bz2) (dict-pt-pt.df.bz2)
 
-### Etymology-Free Version
+### Versão Livre de Etimologia.
 
 - [Kobo](https://github.com/BoboTiG/ebook-reader-dict/releases/download/pt/dicthtml-pt-pt-noetym.zip) (dicthtml-pt-pt-noetym.zip)
 - [StarDict](https://github.com/BoboTiG/ebook-reader-dict/releases/download/pt/dict-pt-pt-noetym.zip) (dict-pt-pt-noetym.zip)
 - [DictFile](https://github.com/BoboTiG/ebook-reader-dict/releases/download/pt/dict-pt-pt-noetym.df.bz2) (dict-pt-pt-noetym.df.bz2)
 
-## Installation
+## Instalação
 
-Copy the dictionnary inside the `.kobo/custom-dict/` folder on your eBook reader.
+Copie o dicionário dentro da pasta `.kobo/custom-dict/` no seu leitor de eBook.
